@@ -32,6 +32,7 @@ const saniyaGoyal = {
 };
 
 console.log(saniyaGoyal);
+```
 
 📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=san7iya&theme=dark&hide_border=false"/> </p> <p align="center"> <img src="https://nirzak-streak-stats.vercel.app/?user=san7iya&theme=dark&hide_border=false"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=san7iya&theme=dark&hide_border=false&layout=compact"/> </p>
